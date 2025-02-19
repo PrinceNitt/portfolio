@@ -296,7 +296,7 @@ export const experiences = [
     role: "Fullstack Externship",
     company: "NIT Trichy",
     date: "June 2023 - July 2023",
-    desc: "Built an employee management full stack web app used Docker and deployed on AWS ec2. I was the top performer in the program.",
+    desc: "Developed a full-featured e-commerce platform with user authentication, product listings, shopping cart, and order tracking. The admin dashboard enables product, inventory, and user management with sales analytics. Integrated a secure PayPal payment gateway with order confirmation and invoices. Enhanced customer experience with AI-driven chatbot support and marketing features like discount coupons.",
     skills: [
       "ReactJS",
       "Redux",
